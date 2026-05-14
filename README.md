@@ -1,26 +1,24 @@
 <div align="center">
-  <h1>🖥️ Fake OS</h1>
-  <p><em>A Windows desktop simulator built in C using the Win32 API</em></p>
-
-  <p>
-    <img src="https://img.shields.io/badge/language-C-00599C?style=flat-square&logo=c" alt="C">
-    <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows">
-    <img src="https://img.shields.io/badge/API-Win32%20GDI-00b894?style=flat-square" alt="Win32 GDI">
-    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
-  </p>
-
-  <br>
-
-  ```c
-  // A simulated Windows desktop experience
-  // Gradient backgrounds, taskbar, start menu — all in C
-  ```
+  <img src="https://raw.githubusercontent.com/jayaswinjay-web/shared-assets/main/screenshots/fake-os-demo.svg" width="100%" alt="Fake OS Screenshot">
 </div>
 
-![License](https://img.shields.io/github/license/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)
-![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)
-![CI](https://github.com/jayaswinjay-web/fake-os/actions/workflows/ci.yml/badge.svg)
-![GitHub Repo](https://img.shields.io/github/repo-size/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)
+<br>
+
+<div align="center">
+
+[![License](https://img.shields.io/github/license/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/fake-os/commits)
+[![CI](https://github.com/jayaswinjay-web/fake-os/actions/workflows/ci.yml/badge.svg)](https://github.com/jayaswinjay-web/fake-os/actions)
+[![Repo Size](https://img.shields.io/github/repo-size/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/fake-os)
+[![Stars](https://img.shields.io/github/stars/jayaswinjay-web/fake-os?style=social)](https://github.com/jayaswinjay-web/fake-os)
+
+---
+
+### ⭐ Support This Project — [Star on GitHub](https://github.com/jayaswinjay-web/fake-os) ⭐
+
+---
+
+</div>
 
 ## Overview
 
@@ -98,6 +96,15 @@ This project was built to explore low-level Windows programming concepts:
 - Working directly with GDI for graphics rendering
 - OS-like UI element implementation (taskbar, start menu)
 - Systems programming without frameworks or libraries
+
+## Show Your Support
+
+- ⭐ **Star this repo** — helps others discover it
+- 🐛 **Report issues** — I respond within 24 hours
+- 📬 **Share feedback** — contact@jaytechsoln.in
+- ☕ **Buy me a coffee** — [Sponsor](https://github.com/sponsors/jayaswinjay-web)
+
+Made with ❤️ by [Aswin Jay](https://github.com/Aswinajay) — part of [JAY TECH SOLUTIONS](https://jaytechsoln.in)
 
 ## License
 
