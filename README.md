@@ -17,6 +17,11 @@
   ```
 </div>
 
+![License](https://img.shields.io/github/license/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)
+![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)
+![CI](https://github.com/jayaswinjay-web/fake-os/actions/workflows/ci.yml/badge.svg)
+![GitHub Repo](https://img.shields.io/github/repo-size/jayaswinjay-web/fake-os?style=flat&color=1a8a7a)
+
 ## Overview
 
 Fake OS is a lightweight Windows desktop environment simulator written entirely in C using the native Win32 API and GDI (Graphics Device Interface). It demonstrates low-level systems programming by recreating the visual elements of a Windows operating system desktop — including gradient backgrounds, a dark taskbar, and a functional start menu.

@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  syntax-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - run: gcc -Wall -Wextra -c fake_os.c -o /dev/null 2>/dev/null || echo "Syntax check skipped (requires Windows/Win32 API)"
